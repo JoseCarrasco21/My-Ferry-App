@@ -6,7 +6,7 @@ const db = require('./db');
 
 const router = require('./network/routes');
 
-db('mongodb+srv://jose-carrasco_21:O3fupuoVRTkF3PTF@cluster0.spnetol.mongodb.net/?retryWrites=true&w=majority');
+db('mongodb+srv://jose-carrasco_21:0BKvZOWH32AMYLAI@cluster0.spnetol.mongodb.net/?retryWrites=true&w=majority');
 
 const app = express();
 
